@@ -2,9 +2,14 @@
 
 Boilerplate for new PHP library.
 
+## Requirements
+
+* PHP version 7.1+
+* PHPUnit version 7.4+
+
 ## Composer
 
-    composer create-project --no-install --remove-vcs aryathemes/boilerplate DIRECTORY dev-master
+    composer require aryathemes/boilerplate
 
 ## Resources
 
