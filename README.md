@@ -1,6 +1,6 @@
 # PHP Boilerplate
 
-Boilerplate for new PHP projects.
+Boilerplate for new PHP library.
 
 ## Composer
 

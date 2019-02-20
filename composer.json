@@ -1,8 +1,8 @@
 {
     "name": "aryathemes/boilerplate",
     "description": "Boilerplate for new PHP projects.",
-    "type": "project",
-    "keywords": ["boilerplate"],
+    "type": "library",
+    "keywords": ["library", "boilerplate"],
     "license": "MIT",
     "require": {
         "php": "^7.1"
