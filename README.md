@@ -4,8 +4,8 @@ Boilerplate for new PHP library.
 
 ## Requirements
 
-* PHP version 7.1+
-* PHPUnit version 7.4+
+* PHP version 7.1 or greater
+* PHPUnit version 7.4 or greater
 
 ## Composer
 
