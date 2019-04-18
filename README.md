@@ -9,7 +9,7 @@ Boilerplate for new PHP library.
 
 ## Composer
 
-    composer require aryathemes/boilerplate
+    composer create-project --no-install --remove-vcs luisalberto/php-boilerplate DIRECTORY dev-master
 
 ## Resources
 
