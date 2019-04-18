@@ -8,7 +8,7 @@ class SummationTest extends TestCase
 {
     public function testSum()
     {
-        $result = \Application\Summation::sum(5);
+        $result = \Application\Summation::sum(15);
         
         $this->assertEquals($result, 15);
     }
