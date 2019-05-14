@@ -1,5 +1,7 @@
 # PHP Boilerplate
 
+[![Build Status](https://travis-ci.com/aryathemes/boilerplate.svg?branch=master)](https://travis-ci.com/aryathemes/boilerplate)
+
 Boilerplate for new PHP library.
 
 ## Requirements
